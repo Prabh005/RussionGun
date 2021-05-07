@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RussionGun", "RussionGun.csproj", "{08C42989-C2F9-48F7-8C42-5D089BDA06CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{371AA8EA-FCAB-43A3-AC65-0AB838D6B5B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08C42989-C2F9-48F7-8C42-5D089BDA06CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C42989-C2F9-48F7-8C42-5D089BDA06CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C42989-C2F9-48F7-8C42-5D089BDA06CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C42989-C2F9-48F7-8C42-5D089BDA06CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{371AA8EA-FCAB-43A3-AC65-0AB838D6B5B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{371AA8EA-FCAB-43A3-AC65-0AB838D6B5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{371AA8EA-FCAB-43A3-AC65-0AB838D6B5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{371AA8EA-FCAB-43A3-AC65-0AB838D6B5B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {130016D2-665A-4F6B-BCF4-AFC931EA5815}
+	EndGlobalSection
+EndGlobal
